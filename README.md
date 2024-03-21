@@ -22,5 +22,5 @@ This stack is licensed under the [EPL 2.0](./LICENSE) license.
 * For more information about Dockerfiles, see [Dockerfile reference](https://docs.docker.com/engine/reference/builder/).
 
 
-testitng
+testing
 testing
